@@ -48,10 +48,3 @@ index = sysmon
 sourcetype = XmlWinEventLog:Microsoft-Windows-Sysmon/Operational
 Restarted Splunk service to begin indexing events.
 Verified events appear in Splunk dashboards.
-<img width="1920" height="1080" alt="kalilab network" src="https://github.com/user-attachments/assets/bb68e9d6-a686-4b4f-aae3-79fc05b496d0" />
-<img width="1024" height="768" alt="ipv4" src="https://github.com/user-attachments/assets/9a20b343-693c-4196-a8a8-09742eab7bb0" />
-<img width="1024" height="768" alt="ipconfig" src="https://github.com/user-attachments/assets/3eb57f7f-032b-4be0-ba96-0bf32cb9aa91" />
-<img width="1024" height="768" alt="firewall settings" src="https://github.com/user-attachments/assets/c9a3fb35-47d8-49bf-b1fb-339920ed673a" />
-<img width="1024" height="768" alt="splunk inputs conig" src="https://github.com/user-attachments/assets/0ccb9660-e2ef-49ab-a285-ead3f4374fbe" />
-<img width="1024" height="768" alt="Sysmon access" src="https://github.com/user-attachments/assets/e00f2dd6-9f76-491b-a03c-2519fe27af6a" />
-<img width="1024" height="768" alt="sysmon config" src="https://github.com/user-attachments/assets/8bf8e705-245a-423a-ab82-298896825d3c" />
